@@ -9,7 +9,7 @@
 			<p>Incheon</p>
 			<p>From game developer to web developer!</p>
 			<p>MBTI : 성격유형</p>
-			<a href='https://namu.wiki/w/INTP' target="_blank">INTP-A</a>
+			<a href='https://namu.wiki/w/INTP' target="_blank">INTP</a>
 			<a href='https://namu.wiki/w/ISTP' target="_blank">ISTP</a>
 			<p>#논리적사고↑ #문제해결능력↑ #이해력↑ #응용력↑ #직관력↑ #분석력↑ #책임감↑ #대처능력↑ #판단능력↑ </p>
 			<p>#메타인지↑ #연역적추론↑ #귀납적추론↑ #방사형사고↑(Mind Map, Brainstorming)</p>
@@ -22,7 +22,7 @@
 			<h2>DataBase</h2>
 			<p>MySQL / Oracle / Studying(MongoDB)</p>
 			<h2>Web</h2>
-			<p>HTML5 / CSS3 / JavaScript / TypeScript / jQuery / Studying(Servlet/JSP /Spring / JPA / REST) </p>
+			<p>HTML5 / CSS3 / JavaScript / TypeScript / jQuery / Servlet/JSP / Spring / Mybatis / Studying(REST) </p>
 			<p>Studying(Node.js / Express / Pug)</p>
 			<br>
 			<h2>BASE</h2>
@@ -63,7 +63,7 @@
 			<p>Studying(Linux / AWS)</p>
 			<br>
 			<p>Toad / sqldeveloper / SourceTree / eXERD / Excel etc...</p>
-			<p>Notion / Trello / OneNote / Slack / Discord / Zoom</p>
+			<p>Notion / Trello / OneNote / JIRA / Slack / Discord / Zoom</p>
 		</div>
 	</section>
 </body>
