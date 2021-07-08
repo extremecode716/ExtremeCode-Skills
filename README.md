@@ -22,7 +22,8 @@
 			<h2>DataBase</h2>
 			<p>MySQL / Oracle / Studying(MongoDB)</p>
 			<h2>Web</h2>
-			<p>HTML5 / CSS3 / JavaScript / TypeScript / jQuery / Servlet/JSP / Spring / Mybatis / Studying(REST) </p>
+			<p>HTML5 / CSS3 / JavaScript / TypeScript / jQuery / Servlet/JSP / Spring / Spring Boot / Restfull API </p>
+			<p> Maven, Gradle, Mybatis, JPA, JUnit, ... </p>
 			<p>Studying(Node.js / Express / Pug)</p>
 			<br>
 			<h2>BASE</h2>
