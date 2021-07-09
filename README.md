@@ -55,6 +55,7 @@
 			<h2>IDE & EDITOR & OS & ETC</h2>
 			<p>Visual Studio(main)</p>
 			<p>Visual Studio Code(main)</p>
+			<p>IntelliJ(main)</p>
 			<p>Eclipse(main)</p>
 			<p>PyCharm</p>
 			<p>Jupyter Notebook</p>
